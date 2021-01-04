@@ -1,0 +1,70 @@
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\DrawMaMon.exe
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\DrawMaMon.pdb
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\DrawMaMon.csprojResolveAssemblyReference.cache
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\DrawMaMon.exe
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\DrawMaMon.pdb
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\TileMaptest.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\Boer16x32Animatie.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\tileMap.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\ToolBar.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\FloorLayerWhite.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\RoofLayerWhite.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\TileBoxbg.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlLinks.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlRechts.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\OpenMap.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\Prullebak.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\OpenFileBG.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\closeButton.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarBG.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarButton.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarBG.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarButton.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\File.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\Map.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SluitMap.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\EmptyTile.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop Blauw.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW SAVE.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW EXIT.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop play.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\textBoxBG.xnb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SelectedBox.xnb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Fonts\Font.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\TileMaptest.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\Boer16x32Animatie.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\ToolBar.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\FloorLayerWhite.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\RoofLayerWhite.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\TileBoxbg.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlLinks.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlRechts.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\OpenMap.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\Prullebak.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\OpenFileBG.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\closeButton.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\tileMap.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarBG.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarButton.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarBG.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarButton.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\File.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\Map.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SluitMap.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\EmptyTile.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop Blauw.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW SAVE.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW EXIT.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop play.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\textBoxBG.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SelectedBox.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Fonts\Font.xnb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\DrawMaMon.exe
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\DrawMaMon.pdb
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\DrawMaMon.exe
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\obj\x86\Debug\DrawMaMon.pdb

@@ -1,0 +1,2 @@
+c:\users\jurjen\documents\visual studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMonContent\obj\x86\Debug\DrawMaMonContent.contentprojResolveAssemblyReference.cache
+J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMonContent\obj\x86\Debug\ResolveAssemblyReference.cache

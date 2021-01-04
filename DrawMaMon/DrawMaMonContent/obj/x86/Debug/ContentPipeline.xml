@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\TileMaptest.png</Source>
+      <Name>Textures\TileMaptest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\TileMaptest.xnb</Output>
+      <Time>2013-01-14T18:48:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Boer16x32Animatie.png</Source>
+      <Name>Textures\Boer16x32Animatie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\Boer16x32Animatie.xnb</Output>
+      <Time>2013-01-15T20:30:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\ToolBar.png</Source>
+      <Name>Textures\UI\MapEditor\ToolBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\ToolBar.xnb</Output>
+      <Time>2013-01-15T22:29:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\FloorLayerWhite.png</Source>
+      <Name>Textures\UI\MapEditor\FloorLayerWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\FloorLayerWhite.xnb</Output>
+      <Time>2013-01-16T20:31:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\RoofLayerWhite.png</Source>
+      <Name>Textures\UI\MapEditor\RoofLayerWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\RoofLayerWhite.xnb</Output>
+      <Time>2013-01-16T20:31:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\TileBoxbg.png</Source>
+      <Name>Textures\UI\MapEditor\TileBoxbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\TileBoxbg.xnb</Output>
+      <Time>2013-01-17T15:16:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\PijlLinks.png</Source>
+      <Name>Textures\UI\MapEditor\PijlLinks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlLinks.xnb</Output>
+      <Time>2013-01-17T15:35:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\PijlRechts.png</Source>
+      <Name>Textures\UI\MapEditor\PijlRechts</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\PijlRechts.xnb</Output>
+      <Time>2013-01-17T15:35:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\OpenMap.png</Source>
+      <Name>Textures\UI\MapEditor\OpenMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\OpenMap.xnb</Output>
+      <Time>2013-01-17T17:53:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MapEditor\Prullebak.png</Source>
+      <Name>Textures\UI\MapEditor\Prullebak</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MapEditor\Prullebak.xnb</Output>
+      <Time>2013-01-17T17:53:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\OpenFileBG.png</Source>
+      <Name>Textures\UI\General\OpenFileBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\OpenFileBG.xnb</Output>
+      <Time>2013-01-17T18:37:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\closeButton.png</Source>
+      <Name>Textures\UI\General\closeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\closeButton.xnb</Output>
+      <Time>2013-01-17T18:47:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\tileMap.png</Source>
+      <Name>Textures\tileMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\tileMap.xnb</Output>
+      <Time>2013-01-18T14:22:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\HScrollbarBG.png</Source>
+      <Name>Textures\UI\General\HScrollbarBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarBG.xnb</Output>
+      <Time>2013-01-18T14:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\HScrollbarButton.png</Source>
+      <Name>Textures\UI\General\HScrollbarButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\HScrollbarButton.xnb</Output>
+      <Time>2013-01-18T14:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\VScrollbarBG.png</Source>
+      <Name>Textures\UI\General\VScrollbarBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarBG.xnb</Output>
+      <Time>2013-01-18T14:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\VScrollbarButton.png</Source>
+      <Name>Textures\UI\General\VScrollbarButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\VScrollbarButton.xnb</Output>
+      <Time>2013-01-18T14:29:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\File.png</Source>
+      <Name>Textures\UI\General\File</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\File.xnb</Output>
+      <Time>2013-01-18T14:44:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\Map.png</Source>
+      <Name>Textures\UI\General\Map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\Map.xnb</Output>
+      <Time>2013-01-18T15:28:50+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\SluitMap.png</Source>
+      <Name>Textures\UI\General\SluitMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SluitMap.xnb</Output>
+      <Time>2013-01-18T18:26:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\EmptyTile.png</Source>
+      <Name>Textures\EmptyTile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\EmptyTile.xnb</Output>
+      <Time>2013-01-18T22:08:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MainMenu\Menuknop.png</Source>
+      <Name>Textures\UI\MainMenu\Menuknop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop.xnb</Output>
+      <Time>2013-01-19T17:48:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\EscapeMenu\Menuknop Blauw.png</Source>
+      <Name>Textures\UI\EscapeMenu\Menuknop Blauw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop Blauw.xnb</Output>
+      <Time>2013-01-19T18:52:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\EscapeMenu\Menuknop BLAUW SAVE.png</Source>
+      <Name>Textures\UI\EscapeMenu\Menuknop BLAUW SAVE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW SAVE.xnb</Output>
+      <Time>2013-01-19T18:58:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\EscapeMenu\Menuknop BLAUW EXIT.png</Source>
+      <Name>Textures\UI\EscapeMenu\Menuknop BLAUW EXIT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\EscapeMenu\Menuknop BLAUW EXIT.xnb</Output>
+      <Time>2013-01-19T19:03:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\MainMenu\Menuknop play.png</Source>
+      <Name>Textures\UI\MainMenu\Menuknop play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\MainMenu\Menuknop play.xnb</Output>
+      <Time>2013-01-19T20:37:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\textBoxBG.png</Source>
+      <Name>Textures\UI\General\textBoxBG</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\textBoxBG.xnb</Output>
+      <Time>2013-01-20T16:01:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UI\General\SelectedBox.png</Source>
+      <Name>Textures\UI\General\SelectedBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Textures\UI\General\SelectedBox.xnb</Output>
+      <Time>2013-01-21T22:16:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Font.png</Source>
+      <Name>Fonts\Font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\Fonts\Font.xnb</Output>
+      <Time>2013-01-25T21:32:02+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMonContent\</RootDirectory>
+      <LoggerRootDirectory>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\</LoggerRootDirectory>
+      <IntermediateDirectory>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMonContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>J:\Documenten\Visual Studio 2010\Projects\DrawMaMon\DrawMaMon\DrawMaMon\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-30T15:36:28.7572+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

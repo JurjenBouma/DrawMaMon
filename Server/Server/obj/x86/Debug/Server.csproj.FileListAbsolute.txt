@@ -1,0 +1,16 @@
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Form1.resources
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Jurjen\documents\visual studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\bin\Debug\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\bin\Debug\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Debug\DrawMaMon.Form1.resources

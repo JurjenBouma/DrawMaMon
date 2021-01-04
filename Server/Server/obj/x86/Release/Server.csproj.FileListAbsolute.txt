@@ -1,0 +1,14 @@
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.Form1.resources
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.Properties.Resources.resources
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\bin\Release\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\bin\Release\Server.pdb
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Release\DrawMaMon.Form1.resources
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Release\Server.Properties.Resources.resources
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Release\Server.exe
+C:\Users\Jurjen\Documents\Visual Studio 2010\Projects\DrawMaMon\Server\Server\obj\x86\Release\Server.pdb
